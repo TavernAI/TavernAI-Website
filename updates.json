@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "channels": {
+    "stable": {
+      "version": "2.5.1",
+      "channel": "stable",
+      "devCycle": 3,
+      "devIteration": 0,
+      "releaseUrl": "https://github.com/TavernAI/TavernAI/releases/tag/v2.5.1",
+      "notes": "TavernAI 2.5.1 stable release.",
+      "assets": {
+        "win-x64-standard": {
+          "url": "https://github.com/TavernAI/TavernAI/releases/download/v2.5.1/TavernAI-v2.5.1-win-x64.zip"
+        },
+        "linux-x64-standard": {
+          "url": "https://github.com/TavernAI/TavernAI/releases/download/v2.5.1/TavernAI-v2.5.1-linux-x64.tar.gz"
+        }
+      }
+    },
+    "dev": {
+      "version": "2.5.1",
+      "channel": "stable",
+      "devCycle": 3,
+      "devIteration": 0,
+      "releaseUrl": "https://github.com/TavernAI/TavernAI/releases/tag/v2.5.1",
+      "notes": "TavernAI 2.5.1 stable release.",
+      "assets": {
+        "win-x64-standard": {
+          "url": "https://github.com/TavernAI/TavernAI/releases/download/v2.5.1/TavernAI-v2.5.1-win-x64.zip"
+        },
+        "linux-x64-standard": {
+          "url": "https://github.com/TavernAI/TavernAI/releases/download/v2.5.1/TavernAI-v2.5.1-linux-x64.tar.gz"
+        }
+      }
+    }
+  }
+}
